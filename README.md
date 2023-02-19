@@ -1,4 +1,4 @@
-# Bull Arena + Express
+# Bull Arena + Express on Deno
 
 ## Requirements
 
@@ -8,3 +8,5 @@
 
 1. Configure `.env` with Redis URL and Queues
 2. `deno task start`
+
+Apache-2.0 License © 2023
